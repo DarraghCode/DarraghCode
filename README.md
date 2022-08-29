@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarraghCode
 - 👀 I’m interested in Python & Java. I love everything to do with Full Stack Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Python
 - 📫 How to reach me - Discord @Goldzyn#1337
 
 <!---
